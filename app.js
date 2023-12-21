@@ -13,8 +13,8 @@ playerLivesCount.textContent=playerLives;
   //We generate the object 🧑🏻‍💻
 const getData = () => [
 
-    { imgSrc: "./Images/beatles.jpeg", id: 1, name: "beatles" },
-    { imgSrc: "./Images/blink182.jpeg", id: 2, name: "blink 182" },
+    { imgSrc: "Images/beatles.jpeg", id: 1, name: "beatles" },
+    { imgSrc: "Images/blink182.jpeg", id: 2, name: "blink 182" },
     { imgSrc: "./Images/fkatwigs.jpeg", id: 3, name: "fka twigs" },
     { imgSrc: "./Images/fleetwood.jpeg", id: 4, name: "fleetwood" },
     { imgSrc: "./Images/joy-division.jpeg", id: 5, name: "joy division" },
